@@ -22,12 +22,15 @@ The report covers:
 
 ---
 
-**Concepts used:**
-- Variables
-- Command substitution
-- echo output formatting
+Conclusion
 
-Run:
-```bash
-chmod +x script1.sh
-./script1.sh
+This project helped in understanding how open source software works not only from a technical perspective but also from a philosophical perspective. Python is a successful open source project because of its community, permissive license, and large ecosystem.
+
+---
+
+References
+Python Software Foundation — https://www.python.org
+GNU Project — https://www.gnu.org
+Open Source Initiative — https://opensource.org
+The Linux Command Line — William Shotts
+GNU Bash Manual — https://www.gnu.org/software/bash/manual
