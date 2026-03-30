@@ -29,8 +29,8 @@ This project helped in understanding how open source software works not only fro
 ---
 
 References
-Python Software Foundation — https://www.python.org
-GNU Project — https://www.gnu.org
-Open Source Initiative — https://opensource.org
-The Linux Command Line — William Shotts
-GNU Bash Manual — https://www.gnu.org/software/bash/manual
+- Python Software Foundation — https://www.python.org
+- GNU Project — https://www.gnu.org
+- Open Source Initiative — https://opensource.org
+- The Linux Command Line — William Shotts
+- GNU Bash Manual — https://www.gnu.org/software/bash/manual
