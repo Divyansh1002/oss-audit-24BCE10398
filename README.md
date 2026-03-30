@@ -22,17 +22,6 @@ The report covers:
 
 ---
 
-## Shell Scripts Included
-
-### Script 1 — System Identity Report
-This script displays basic system information like:
-- Kernel version
-- Current user
-- Date and time
-- Python version
-- Linux distribution
-- Open source license information
-
 **Concepts used:**
 - Variables
 - Command substitution
